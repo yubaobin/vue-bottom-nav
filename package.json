@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "description": "A Vue.js project",
   "author": "ybb",
-  "private": true,
+  "main": "./lib/bottom-nav.min.js",
   "scripts": {
     "dev": "node build/dev-server.js",
     "start": "node build/dev-server.js",
