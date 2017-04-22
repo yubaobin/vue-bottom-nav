@@ -1,6 +1,6 @@
 {
   "name": "vue-bottom-nav",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "vue-bottom-nav",
   "main": "./dist/index.js",
   "scripts": {
