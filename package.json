@@ -1,5 +1,5 @@
 {
-  "name": "vue-bottom-vue",
+  "name": "vue-bottom-nav",
   "version": "1.0.1",
   "description": "vue-bottom-nav",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yubaobin/vue-bottom-vue.git"
+    "url": "git+https://github.com/yubaobin/vue-bottom-nav.git"
   },
   "keywords": [
     "vue",
@@ -18,7 +18,7 @@
   "author": "ybb",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yubaobin/vue-bottom-vue/issues"
+    "url": "https://github.com/yubaobin/vue-bottom-nav/issues"
   },
-  "homepage": "https://github.com/yubaobin/vue-bottom-vue#readme"
+  "homepage": "https://github.com/yubaobin/vue-bottom-nav#readme"
 }
