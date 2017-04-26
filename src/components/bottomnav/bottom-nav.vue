@@ -36,5 +36,6 @@ export default {
   width: 100%;
   flex-wrap: nowrap;
   padding: 15px 0;
+  align-items: center;
 }
 </style>
