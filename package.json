@@ -1,6 +1,6 @@
 {
   "name": "vue-bottom-nav",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "A Vue.js project",
   "author": "ybb",
   "main": "./lib/bottom-nav.min.js",
