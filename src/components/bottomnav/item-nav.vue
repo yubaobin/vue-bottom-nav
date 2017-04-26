@@ -41,6 +41,7 @@ export default {
 <style scoped lang="scss">
 .item-nav {
   text-align: center;
+  color: #8A8A8A;
   &.is-active {
   	color: rgb(32, 160, 255);
   }
